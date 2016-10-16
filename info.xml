@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="org.civicrm.membership" type="module">
+  <file>membership</file>
+  <name>Membership Filter</name>
+  <description>Displays a list of the current memberships with a date filter</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>abdou kaba</author>
+    <email>akabadev@gmail.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Page">https://github.com/abdoukaba/civicrm-membership</url>
+    <url desc="Documentation">https://github.com/abdoukaba/civicrm-membership</url>
+    <url desc="Support">https://github.com/abdoukaba/civicrm-membership</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-10-10</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7+</ver>
+  </compatibility>
+  <comments>Fully functional module</comments>
+  <civix>
+    <namespace>CRM/Membership</namespace>
+  </civix>
+</extension>
