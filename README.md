@@ -6,7 +6,7 @@ CiviCRM extension which displays a list of the current memberships with a date f
 1. Clone this repo into your civicrm extensions folder
 
     ```
-    git clone https://github.com/rsmarques/civicrm-membership-extension.git com.rsmarques.membership
+
     ```
 
 2. Install the application on your CiviCRM user panel (Administer -> System Settings -> Extensions)
